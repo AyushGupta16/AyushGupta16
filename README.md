@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @VirtualStein
+- 👋 Hi, I’m @Ayush Gupta
 - 👀 I’m interested in ML&AI, Content Creation And Graphic Designing
 - 🌱 I’m currently learning C, C++ & Python
 - 💞️ I’m looking to collaborate on Graphic Designing
-- 📫 How to reach me, by @virtualsteintempest@gmail.com
+- 📫 How to reach me, by @ayushrajguptagn@gmail.com
 
 <!---
 VirtualStein/VirtualStein is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
