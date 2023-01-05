@@ -5,6 +5,6 @@
 - 📫 How to reach me, by @ayushrajguptagn@gmail.com
 
 <!---
-VirtualStein/VirtualStein is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AyushGupta16/AyushGupta16 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
